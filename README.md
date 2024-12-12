@@ -16,5 +16,7 @@ Analyzing sales trends and customer preferences helped uncover which items were 
 This insight was invaluable for inventory planning and forecasting, ensuring the business could meet customer demand more effectively and avoid overstocking or stockouts. 
 Overall, the project helped refine business strategies, leading to improved customer satisfaction and sales performance.
 
-
+Insigts :  
+   Married women age group 26-35 from Uttar Pradesh,Maharashtra and Karnataka working in IT, Aviation and Healthcare sector are more likely to buy products from 
+   Food, Cloathing and Electronics category
 
